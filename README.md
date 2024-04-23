@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kaushikbihari04
-- ✨ I m a freshmen , instrested to learn programming and hardware application 
-- 👀 I’m interested in programming and learning electrical electronics stuffs
-- 👨🏻‍💻 I have already acquire a good aort of knowledge on C programming language! 
-- 🌱 I’m currently learning ->DSA with C programming language 
-- ⚡ Fun fact:- this person is too coding enthusiast and interested in mastering a language. indirectly i want to be job ready within few years .
+-  A freshmen , instrested to learn programming and hardware application 
+-👨🏻‍💻 I have already acquire a good aort of knowledge on C programming language! 
+- I’m currently learning ->DSA with C programming language 
+- Fun fact:- this person is too coding enthusiast and interested in mastering a language. indirectly i want to be job ready within few years .
